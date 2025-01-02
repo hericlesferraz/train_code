@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/count-vowel-strings-in-ranges/
+
 from typing import List
 
 class Solution:
